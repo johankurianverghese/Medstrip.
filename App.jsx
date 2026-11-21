@@ -6,7 +6,7 @@ import ScannerScreen, { optimizeImageFile } from './components/ScannerScreen';
 import CalendarScreen from './components/CalendarScreen';
 import HistoryScreen from './components/HistoryScreen';
 import LoginModal from './components/LoginModal';
-import { ArrowUp, ShieldCheck, Heart, Sparkles } from 'lucide-react';
+import { ArrowUp, ShieldCheck } from 'lucide-react';
 
 const DEFAULT_CALENDAR_EVENTS = {
   '2026-11-01': [
